@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f1f611f7303cf1e4b841fbb66629e097
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 9.2
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Materials/MinimalChargeWeaponMaterial.mat
+  uploadId: 712837

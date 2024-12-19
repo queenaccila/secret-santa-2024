@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf69c777e96a4524580b4bf315bb4c3f
+timeCreated: 1450116169
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 9.2
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Materials/2x1Green.mat
+  uploadId: 712837

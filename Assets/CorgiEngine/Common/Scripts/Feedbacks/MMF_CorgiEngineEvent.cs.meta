@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d41ad7aef71cebd43b1b548374d2e861
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 9.2
+  assetPath: Assets/CorgiEngine/Common/Scripts/Feedbacks/MMF_CorgiEngineEvent.cs
+  uploadId: 712837

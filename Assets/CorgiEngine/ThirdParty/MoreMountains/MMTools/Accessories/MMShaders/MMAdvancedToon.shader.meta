@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 82c42a0b06f4f684db1ee2c535fb985c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 9.2
+  assetPath: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Accessories/MMShaders/MMAdvancedToon.shader
+  uploadId: 712837

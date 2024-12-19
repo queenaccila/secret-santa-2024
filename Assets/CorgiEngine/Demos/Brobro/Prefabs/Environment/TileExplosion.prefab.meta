@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3027c42bc7a1af94bad2502fcb157dd4
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 9.2
+  assetPath: Assets/CorgiEngine/Demos/Brobro/Prefabs/Environment/TileExplosion.prefab
+  uploadId: 712837

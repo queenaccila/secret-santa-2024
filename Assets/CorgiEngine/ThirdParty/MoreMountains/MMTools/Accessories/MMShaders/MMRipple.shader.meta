@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 44f8736e1f857f24681cbc354a147c3e
+timeCreated: 1467203582
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 9.2
+  assetPath: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Accessories/MMShaders/MMRipple.shader
+  uploadId: 712837

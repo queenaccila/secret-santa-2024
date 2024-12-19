@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 041a480513ea4f947a590bb1195e91a0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 9.2
+  assetPath: Assets/CorgiEngine/ThirdParty/MoreMountains/MMFeedbacks/MMFeedbacksForThirdParty/HDRP/Resources/MMDefaultHDRPVolume.prefab
+  uploadId: 712837
