@@ -112,7 +112,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -126,7 +126,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -178,10 +178,10 @@ TextureImporter:
       name: MiniSwordMan_0
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 160
-        width: 15
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,10 +200,10 @@ TextureImporter:
       name: MiniSwordMan_1
       rect:
         serializedVersion: 2
-        x: 40
+        x: 32
         y: 160
-        width: 15
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,10 +222,10 @@ TextureImporter:
       name: MiniSwordMan_2
       rect:
         serializedVersion: 2
-        x: 72
+        x: 64
         y: 160
-        width: 15
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,10 +244,10 @@ TextureImporter:
       name: MiniSwordMan_3
       rect:
         serializedVersion: 2
-        x: 104
+        x: 96
         y: 160
-        width: 15
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,10 +266,10 @@ TextureImporter:
       name: MiniSwordMan_4
       rect:
         serializedVersion: 2
-        x: 9
+        x: 0
         y: 128
-        width: 14
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,10 +288,10 @@ TextureImporter:
       name: MiniSwordMan_5
       rect:
         serializedVersion: 2
-        x: 41
+        x: 32
         y: 128
-        width: 13
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,10 +310,10 @@ TextureImporter:
       name: MiniSwordMan_6
       rect:
         serializedVersion: 2
-        x: 72
+        x: 64
         y: 128
-        width: 15
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,10 +332,10 @@ TextureImporter:
       name: MiniSwordMan_7
       rect:
         serializedVersion: 2
-        x: 103
+        x: 96
         y: 128
-        width: 17
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -354,10 +354,10 @@ TextureImporter:
       name: MiniSwordMan_8
       rect:
         serializedVersion: 2
-        x: 135
+        x: 128
         y: 128
-        width: 17
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -376,10 +376,10 @@ TextureImporter:
       name: MiniSwordMan_9
       rect:
         serializedVersion: 2
-        x: 168
+        x: 160
         y: 128
-        width: 15
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -398,10 +398,10 @@ TextureImporter:
       name: MiniSwordMan_10
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 96
-        width: 16
-        height: 19
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,10 +420,10 @@ TextureImporter:
       name: MiniSwordMan_11
       rect:
         serializedVersion: 2
-        x: 40
+        x: 32
         y: 96
-        width: 16
-        height: 20
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -442,10 +442,10 @@ TextureImporter:
       name: MiniSwordMan_12
       rect:
         serializedVersion: 2
-        x: 72
+        x: 64
         y: 96
-        width: 15
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -464,10 +464,10 @@ TextureImporter:
       name: MiniSwordMan_13
       rect:
         serializedVersion: 2
-        x: 6
+        x: 0
         y: 64
-        width: 17
-        height: 19
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -488,8 +488,8 @@ TextureImporter:
         serializedVersion: 2
         x: 32
         y: 64
-        width: 23
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -508,10 +508,10 @@ TextureImporter:
       name: MiniSwordMan_15
       rect:
         serializedVersion: 2
-        x: 75
+        x: 64
         y: 64
-        width: 19
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -530,10 +530,10 @@ TextureImporter:
       name: MiniSwordMan_16
       rect:
         serializedVersion: 2
-        x: 107
+        x: 96
         y: 64
-        width: 18
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,10 +552,10 @@ TextureImporter:
       name: MiniSwordMan_17
       rect:
         serializedVersion: 2
-        x: 139
+        x: 128
         y: 64
-        width: 18
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -574,10 +574,10 @@ TextureImporter:
       name: MiniSwordMan_18
       rect:
         serializedVersion: 2
-        x: 170
+        x: 160
         y: 64
-        width: 16
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -596,10 +596,10 @@ TextureImporter:
       name: MiniSwordMan_19
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 32
-        width: 15
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -618,10 +618,10 @@ TextureImporter:
       name: MiniSwordMan_20
       rect:
         serializedVersion: 2
-        x: 38
+        x: 32
         y: 32
-        width: 17
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -640,10 +640,10 @@ TextureImporter:
       name: MiniSwordMan_21
       rect:
         serializedVersion: 2
-        x: 71
+        x: 64
         y: 32
-        width: 16
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -662,10 +662,10 @@ TextureImporter:
       name: MiniSwordMan_22
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 0
-        width: 15
-        height: 14
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -684,10 +684,10 @@ TextureImporter:
       name: MiniSwordMan_23
       rect:
         serializedVersion: 2
-        x: 40
+        x: 32
         y: 0
-        width: 18
-        height: 12
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -706,10 +706,10 @@ TextureImporter:
       name: MiniSwordMan_24
       rect:
         serializedVersion: 2
-        x: 71
+        x: 64
         y: 0
-        width: 19
-        height: 8
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -728,10 +728,10 @@ TextureImporter:
       name: MiniSwordMan_25
       rect:
         serializedVersion: 2
-        x: 102
+        x: 96
         y: 0
-        width: 20
-        height: 6
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -750,7 +750,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e4c6bb99a440b8541813ceb8364b522d
     internalID: 0
     vertices: []
     indices: 
@@ -759,7 +759,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniSwordMan_0: 8174098430123861899
+      MiniSwordMan_1: -5544229937379784404
+      MiniSwordMan_10: -6631179822763198230
+      MiniSwordMan_11: -8893302374788489090
+      MiniSwordMan_12: -7271301463866913317
+      MiniSwordMan_13: 8245725487622345609
+      MiniSwordMan_14: 4001326871936014896
+      MiniSwordMan_15: 5947032012226982047
+      MiniSwordMan_16: -2105890662011212580
+      MiniSwordMan_17: 381987376143259962
+      MiniSwordMan_18: 8197731325795905921
+      MiniSwordMan_19: -4123219066973461941
+      MiniSwordMan_2: -250838222661855709
+      MiniSwordMan_20: -7217311071488327769
+      MiniSwordMan_21: -6987559965317779590
+      MiniSwordMan_22: -1263751432711080227
+      MiniSwordMan_23: 8366903370504604036
+      MiniSwordMan_24: 5591919075094625761
+      MiniSwordMan_25: -4187280161272071550
+      MiniSwordMan_3: -8454521358705239570
+      MiniSwordMan_4: 889433626851667271
+      MiniSwordMan_5: 4829824714103737065
+      MiniSwordMan_6: -6476934913726316661
+      MiniSwordMan_7: 2841752544089333437
+      MiniSwordMan_8: -8742341911821893509
+      MiniSwordMan_9: -4668702310612612524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
