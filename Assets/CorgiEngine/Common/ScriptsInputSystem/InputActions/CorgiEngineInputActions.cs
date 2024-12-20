@@ -159,7 +159,7 @@ namespace MoreMountains.CorgiEngine
                     ""name"": ""Interact"",
                     ""type"": ""Button"",
                     ""id"": ""ae461515-11b0-4cc9-b221-92ed2df4118e"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -213,7 +213,7 @@ namespace MoreMountains.CorgiEngine
                     ""name"": ""Roll"",
                     ""type"": ""Button"",
                     ""id"": ""f1006ee4-eeee-4d84-b426-0c1b853bd7b5"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -354,17 +354,6 @@ namespace MoreMountains.CorgiEngine
                 },
                 {
                     ""name"": """",
-                    ""id"": ""c74dc322-5120-478a-af7a-0d716b64cfc1"",
-                    ""path"": ""<Keyboard>/e"",
-                    ""interactions"": ""Press(behavior=2)"",
-                    ""processors"": """",
-                    ""groups"": ""Keyboard"",
-                    ""action"": ""Shoot"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
                     ""id"": ""202fe3e6-b8da-4f61-9aa9-faaad6af7ebb"",
                     ""path"": ""<Mouse>/leftButton"",
                     ""interactions"": ""Press(behavior=2)"",
@@ -393,6 +382,17 @@ namespace MoreMountains.CorgiEngine
                     ""processors"": """",
                     ""groups"": ""Keyboard"",
                     ""action"": ""SecondaryShoot"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""e096350e-fc4c-4d0d-978f-1302bab57276"",
+                    ""path"": ""<Keyboard>/e"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Interact"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
