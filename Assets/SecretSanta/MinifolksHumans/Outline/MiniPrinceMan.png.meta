@@ -124,7 +124,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -138,7 +138,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -190,10 +190,10 @@ TextureImporter:
       name: MiniPrinceMan_0
       rect:
         serializedVersion: 2
-        x: 9
+        x: 0
         y: 160
-        width: 14
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +212,10 @@ TextureImporter:
       name: MiniPrinceMan_1
       rect:
         serializedVersion: 2
-        x: 41
+        x: 32
         y: 160
-        width: 14
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +234,10 @@ TextureImporter:
       name: MiniPrinceMan_2
       rect:
         serializedVersion: 2
-        x: 73
+        x: 64
         y: 160
-        width: 14
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +256,10 @@ TextureImporter:
       name: MiniPrinceMan_3
       rect:
         serializedVersion: 2
-        x: 105
+        x: 96
         y: 160
-        width: 14
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: MiniPrinceMan_4
       rect:
         serializedVersion: 2
-        x: 6
+        x: 0
         y: 128
-        width: 18
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: MiniPrinceMan_5
       rect:
         serializedVersion: 2
-        x: 38
+        x: 32
         y: 128
-        width: 17
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +322,10 @@ TextureImporter:
       name: MiniPrinceMan_6
       rect:
         serializedVersion: 2
-        x: 70
+        x: 64
         y: 128
-        width: 17
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: MiniPrinceMan_7
       rect:
         serializedVersion: 2
-        x: 102
+        x: 96
         y: 128
-        width: 16
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +366,10 @@ TextureImporter:
       name: MiniPrinceMan_8
       rect:
         serializedVersion: 2
-        x: 134
+        x: 128
         y: 128
-        width: 17
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,10 +388,10 @@ TextureImporter:
       name: MiniPrinceMan_9
       rect:
         serializedVersion: 2
-        x: 166
+        x: 160
         y: 128
-        width: 18
-        height: 19
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +410,10 @@ TextureImporter:
       name: MiniPrinceMan_10
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 96
-        width: 16
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,10 +432,10 @@ TextureImporter:
       name: MiniPrinceMan_11
       rect:
         serializedVersion: 2
-        x: 39
+        x: 32
         y: 96
-        width: 17
-        height: 19
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,10 +454,10 @@ TextureImporter:
       name: MiniPrinceMan_12
       rect:
         serializedVersion: 2
-        x: 72
+        x: 64
         y: 96
-        width: 16
-        height: 19
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,10 +476,10 @@ TextureImporter:
       name: MiniPrinceMan_13
       rect:
         serializedVersion: 2
-        x: 103
+        x: 96
         y: 96
-        width: 16
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,10 +498,10 @@ TextureImporter:
       name: MiniPrinceMan_14
       rect:
         serializedVersion: 2
-        x: 136
+        x: 128
         y: 96
-        width: 15
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,10 +520,10 @@ TextureImporter:
       name: MiniPrinceMan_15
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 64
-        width: 15
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,10 +542,10 @@ TextureImporter:
       name: MiniPrinceMan_16
       rect:
         serializedVersion: 2
-        x: 39
+        x: 32
         y: 64
-        width: 16
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -564,10 +564,10 @@ TextureImporter:
       name: MiniPrinceMan_17
       rect:
         serializedVersion: 2
-        x: 72
+        x: 64
         y: 64
-        width: 22
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -586,10 +586,10 @@ TextureImporter:
       name: MiniPrinceMan_18
       rect:
         serializedVersion: 2
-        x: 105
+        x: 96
         y: 64
-        width: 21
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -608,10 +608,10 @@ TextureImporter:
       name: MiniPrinceMan_19
       rect:
         serializedVersion: 2
-        x: 138
+        x: 128
         y: 64
-        width: 20
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -630,10 +630,10 @@ TextureImporter:
       name: MiniPrinceMan_20
       rect:
         serializedVersion: 2
-        x: 170
+        x: 160
         y: 64
-        width: 16
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -652,10 +652,10 @@ TextureImporter:
       name: MiniPrinceMan_21
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 32
-        width: 15
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -674,10 +674,10 @@ TextureImporter:
       name: MiniPrinceMan_22
       rect:
         serializedVersion: 2
-        x: 33
+        x: 32
         y: 32
-        width: 23
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -696,10 +696,10 @@ TextureImporter:
       name: MiniPrinceMan_23
       rect:
         serializedVersion: 2
-        x: 70
+        x: 64
         y: 32
-        width: 17
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -718,10 +718,10 @@ TextureImporter:
       name: MiniPrinceMan_24
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 0
-        width: 16
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -740,10 +740,10 @@ TextureImporter:
       name: MiniPrinceMan_25
       rect:
         serializedVersion: 2
-        x: 36
+        x: 32
         y: 0
-        width: 20
-        height: 14
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,10 +762,10 @@ TextureImporter:
       name: MiniPrinceMan_26
       rect:
         serializedVersion: 2
-        x: 66
+        x: 64
         y: 0
-        width: 22
-        height: 14
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -784,10 +784,10 @@ TextureImporter:
       name: MiniPrinceMan_27
       rect:
         serializedVersion: 2
-        x: 100
+        x: 96
         y: 0
-        width: 23
-        height: 10
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,10 +806,10 @@ TextureImporter:
       name: MiniPrinceMan_28
       rect:
         serializedVersion: 2
-        x: 131
+        x: 128
         y: 0
-        width: 24
-        height: 10
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -828,10 +828,10 @@ TextureImporter:
       name: MiniPrinceMan_29
       rect:
         serializedVersion: 2
-        x: 163
+        x: 160
         y: 0
-        width: 24
-        height: 9
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -850,7 +850,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 746cb33b2b4ccb74a9b286d40428f797
     internalID: 0
     vertices: []
     indices: 
@@ -859,7 +859,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniPrinceMan_0: -2982154035576548524
+      MiniPrinceMan_1: -8269345591581259106
+      MiniPrinceMan_10: 2514312286375955813
+      MiniPrinceMan_11: -1624344348376684882
+      MiniPrinceMan_12: 3345851417111162406
+      MiniPrinceMan_13: -5543449514497657670
+      MiniPrinceMan_14: -481940745580526974
+      MiniPrinceMan_15: -8283185352108237537
+      MiniPrinceMan_16: -6439911161011515768
+      MiniPrinceMan_17: 1010663575946064673
+      MiniPrinceMan_18: 6190206077604492004
+      MiniPrinceMan_19: 5202157961830754454
+      MiniPrinceMan_2: -6111702592564725086
+      MiniPrinceMan_20: 5478431736601880459
+      MiniPrinceMan_21: -4762066333055006185
+      MiniPrinceMan_22: -137387605610505496
+      MiniPrinceMan_23: 267065218862466485
+      MiniPrinceMan_24: -894450719872930078
+      MiniPrinceMan_25: -7131912793638686152
+      MiniPrinceMan_26: 7674744319427421387
+      MiniPrinceMan_27: -1743130440449433232
+      MiniPrinceMan_28: 5424666806284843930
+      MiniPrinceMan_29: 3261302431391534102
+      MiniPrinceMan_3: 3121050795810742802
+      MiniPrinceMan_4: 8120128446052981847
+      MiniPrinceMan_5: 7369545013746923937
+      MiniPrinceMan_6: -491286143942455347
+      MiniPrinceMan_7: 3373535524392470601
+      MiniPrinceMan_8: -1119368996492700270
+      MiniPrinceMan_9: -8208101886197073924
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
