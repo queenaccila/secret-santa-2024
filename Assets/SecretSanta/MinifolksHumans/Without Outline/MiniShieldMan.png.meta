@@ -186,6 +186,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -884,7 +897,38 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniShieldMan_0: 6827581200123067571
+      MiniShieldMan_1: 3750575139723127265
+      MiniShieldMan_10: -5246525244736811478
+      MiniShieldMan_11: -4344377315543502097
+      MiniShieldMan_12: -7264629311427931470
+      MiniShieldMan_13: -6451655367531396237
+      MiniShieldMan_14: 1110959237813771081
+      MiniShieldMan_15: 7085895021500093155
+      MiniShieldMan_16: 4513823393866665027
+      MiniShieldMan_17: -6905228945393478356
+      MiniShieldMan_18: 8702038120399818371
+      MiniShieldMan_19: 6570456663064862958
+      MiniShieldMan_2: 1277478172720775726
+      MiniShieldMan_20: 5200373795052686236
+      MiniShieldMan_21: 5682537243413314815
+      MiniShieldMan_22: 409326573502337264
+      MiniShieldMan_23: 5851356253860373101
+      MiniShieldMan_24: 3804800878550870838
+      MiniShieldMan_25: -2198736319642936054
+      MiniShieldMan_26: -4336318126481141146
+      MiniShieldMan_27: 2604131808745096915
+      MiniShieldMan_28: -2323446285910402123
+      MiniShieldMan_29: -2570450665582920467
+      MiniShieldMan_3: -8596551685316971990
+      MiniShieldMan_30: -8200933595065095441
+      MiniShieldMan_4: -2002477361683931634
+      MiniShieldMan_5: -4797432950316468314
+      MiniShieldMan_6: 3502027604422532094
+      MiniShieldMan_7: -2400127300545814945
+      MiniShieldMan_8: -5467374198368026186
+      MiniShieldMan_9: -1282141428925602573
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

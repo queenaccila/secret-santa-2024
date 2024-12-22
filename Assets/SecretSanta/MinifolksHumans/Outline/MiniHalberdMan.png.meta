@@ -174,6 +174,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -784,7 +797,34 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniHalberdMan_0: 7615383899009855311
+      MiniHalberdMan_1: 2993981637866810112
+      MiniHalberdMan_10: -2345877710830072436
+      MiniHalberdMan_11: -389313959953425957
+      MiniHalberdMan_12: -7115766848029278032
+      MiniHalberdMan_13: -1260026394948945046
+      MiniHalberdMan_14: -5379733992198866703
+      MiniHalberdMan_15: 477141199229416604
+      MiniHalberdMan_16: 484314582367936660
+      MiniHalberdMan_17: 4497770563193387319
+      MiniHalberdMan_18: -6979342908182271323
+      MiniHalberdMan_19: -2634117742865565688
+      MiniHalberdMan_2: 8319322684737827355
+      MiniHalberdMan_20: -3294236241289048757
+      MiniHalberdMan_21: -8426053327068737773
+      MiniHalberdMan_22: 2771369495060572041
+      MiniHalberdMan_23: -5756745257324921826
+      MiniHalberdMan_24: 6858548020541006376
+      MiniHalberdMan_25: -274585361575350783
+      MiniHalberdMan_26: -4570139178894704937
+      MiniHalberdMan_3: 3276224423427980306
+      MiniHalberdMan_4: 3038767768344972236
+      MiniHalberdMan_5: -7367315790090615262
+      MiniHalberdMan_6: -5685688477458005651
+      MiniHalberdMan_7: 2465884908597628819
+      MiniHalberdMan_8: 3583453566881182340
+      MiniHalberdMan_9: -2256229452158688535
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

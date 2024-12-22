@@ -171,6 +171,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -759,7 +772,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniSpearMan_0: 2162766994774161030
+      MiniSpearMan_1: -5562096071103744139
+      MiniSpearMan_10: 4876747651469033931
+      MiniSpearMan_11: 2401450097206899915
+      MiniSpearMan_12: 980161217612829656
+      MiniSpearMan_13: 8554882482823335935
+      MiniSpearMan_14: -746633045687430018
+      MiniSpearMan_15: 7840843372608783117
+      MiniSpearMan_16: -8740010173717043448
+      MiniSpearMan_17: 8126511288811796868
+      MiniSpearMan_18: 4023094116534102115
+      MiniSpearMan_19: 8540764438802995667
+      MiniSpearMan_2: -7482988128699340779
+      MiniSpearMan_20: 2387466484870569373
+      MiniSpearMan_21: 641021518690718148
+      MiniSpearMan_22: -632410494518889265
+      MiniSpearMan_23: 8916712658608939260
+      MiniSpearMan_24: 4882006378774180178
+      MiniSpearMan_25: 6573133240277011525
+      MiniSpearMan_3: 3747124102054857487
+      MiniSpearMan_4: 7799384791829634183
+      MiniSpearMan_5: -4636717877653839678
+      MiniSpearMan_6: 383374598439774415
+      MiniSpearMan_7: -255400804039188915
+      MiniSpearMan_8: -8594910477352517244
+      MiniSpearMan_9: -6526007213610444219
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

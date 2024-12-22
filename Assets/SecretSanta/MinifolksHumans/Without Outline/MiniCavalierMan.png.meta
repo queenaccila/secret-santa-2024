@@ -207,6 +207,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1059,7 +1072,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniCavalierMan_0: 7422181605936378285
+      MiniCavalierMan_1: 5682068335361387786
+      MiniCavalierMan_10: 4451486238217154501
+      MiniCavalierMan_11: -6964472051174593960
+      MiniCavalierMan_12: -3234588341096487704
+      MiniCavalierMan_13: -5773300400606986921
+      MiniCavalierMan_14: 3220166578482907045
+      MiniCavalierMan_15: 6390105969630708367
+      MiniCavalierMan_16: 2301584288136406717
+      MiniCavalierMan_17: -1120334521801179494
+      MiniCavalierMan_18: 1279372092546043521
+      MiniCavalierMan_19: -4978510267594683435
+      MiniCavalierMan_2: -7538842275627551421
+      MiniCavalierMan_20: 99225822879048531
+      MiniCavalierMan_21: 1339361422575811712
+      MiniCavalierMan_22: 6188484714220339366
+      MiniCavalierMan_23: 6636630363096083660
+      MiniCavalierMan_24: -1129083992321544762
+      MiniCavalierMan_25: -8190583398764845587
+      MiniCavalierMan_26: -2248022496296086019
+      MiniCavalierMan_27: -3763670832247679402
+      MiniCavalierMan_28: -3533924499615065870
+      MiniCavalierMan_29: 1752862994145283433
+      MiniCavalierMan_3: 6145357851714593018
+      MiniCavalierMan_30: -5211790038839179295
+      MiniCavalierMan_31: -3058501750801093852
+      MiniCavalierMan_32: 6521454997985027322
+      MiniCavalierMan_33: -828626028361519888
+      MiniCavalierMan_34: 2686190745195977296
+      MiniCavalierMan_35: 6199777948172516830
+      MiniCavalierMan_36: -8696087188073343185
+      MiniCavalierMan_37: 1523656176646730119
+      MiniCavalierMan_4: -3225634602750588034
+      MiniCavalierMan_5: -4697239223243045715
+      MiniCavalierMan_6: -1376259227974004996
+      MiniCavalierMan_7: 7806802995763240767
+      MiniCavalierMan_8: -3085482294628538961
+      MiniCavalierMan_9: -8380389588262711591
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

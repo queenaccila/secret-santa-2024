@@ -183,6 +183,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -859,7 +872,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniPrinceMan_0: -2982154035576548524
+      MiniPrinceMan_1: -8269345591581259106
+      MiniPrinceMan_10: 2514312286375955813
+      MiniPrinceMan_11: -1624344348376684882
+      MiniPrinceMan_12: 3345851417111162406
+      MiniPrinceMan_13: -5543449514497657670
+      MiniPrinceMan_14: -481940745580526974
+      MiniPrinceMan_15: -8283185352108237537
+      MiniPrinceMan_16: -6439911161011515768
+      MiniPrinceMan_17: 1010663575946064673
+      MiniPrinceMan_18: 6190206077604492004
+      MiniPrinceMan_19: 5202157961830754454
+      MiniPrinceMan_2: -6111702592564725086
+      MiniPrinceMan_20: 5478431736601880459
+      MiniPrinceMan_21: -4762066333055006185
+      MiniPrinceMan_22: -137387605610505496
+      MiniPrinceMan_23: 267065218862466485
+      MiniPrinceMan_24: -894450719872930078
+      MiniPrinceMan_25: -7131912793638686152
+      MiniPrinceMan_26: 7674744319427421387
+      MiniPrinceMan_27: -1743130440449433232
+      MiniPrinceMan_28: 5424666806284843930
+      MiniPrinceMan_29: 3261302431391534102
+      MiniPrinceMan_3: 3121050795810742802
+      MiniPrinceMan_4: 8120128446052981847
+      MiniPrinceMan_5: 7369545013746923937
+      MiniPrinceMan_6: -491286143942455347
+      MiniPrinceMan_7: 3373535524392470601
+      MiniPrinceMan_8: -1119368996492700270
+      MiniPrinceMan_9: -8208101886197073924
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

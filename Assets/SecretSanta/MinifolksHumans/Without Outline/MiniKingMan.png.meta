@@ -210,6 +210,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1084,7 +1097,46 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniKingMan_0: 2698359267710091724
+      MiniKingMan_1: 6406204474609373416
+      MiniKingMan_10: 8918864846071079009
+      MiniKingMan_11: -7829327043893098777
+      MiniKingMan_12: 2254982584437718643
+      MiniKingMan_13: -3111755991127123703
+      MiniKingMan_14: 8383805113637739077
+      MiniKingMan_15: 1181048659208216423
+      MiniKingMan_16: -919660023327202205
+      MiniKingMan_17: -7428070328427262936
+      MiniKingMan_18: 3655821136727557132
+      MiniKingMan_19: 6646502405204251436
+      MiniKingMan_2: -4512066508526010987
+      MiniKingMan_20: 440052438792081120
+      MiniKingMan_21: -7723617601901521769
+      MiniKingMan_22: 5899477539884599071
+      MiniKingMan_23: -3651990014306459926
+      MiniKingMan_24: -7790085997503101467
+      MiniKingMan_25: 8733452782028598636
+      MiniKingMan_26: 6331822035284339462
+      MiniKingMan_27: 3019589558032072442
+      MiniKingMan_28: 4123120439807342169
+      MiniKingMan_29: 3259295352724651150
+      MiniKingMan_3: 314846619787463459
+      MiniKingMan_30: 1424984702234098500
+      MiniKingMan_31: 359969275814622449
+      MiniKingMan_32: -7193805462895580275
+      MiniKingMan_33: -4438865698580739157
+      MiniKingMan_34: 6588988494296205507
+      MiniKingMan_35: -1904189314459505433
+      MiniKingMan_36: 7900804842269884585
+      MiniKingMan_37: 2148994889399991994
+      MiniKingMan_38: 4458007459054163930
+      MiniKingMan_4: -7174792019605573721
+      MiniKingMan_5: -8970082521529754047
+      MiniKingMan_6: -3045923478394218703
+      MiniKingMan_7: 3470263062193165639
+      MiniKingMan_8: -271694534392927535
+      MiniKingMan_9: 9031497107277365266
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

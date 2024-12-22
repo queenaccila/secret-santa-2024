@@ -168,6 +168,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -734,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniSwordMan_0: 8174098430123861899
+      MiniSwordMan_1: -5544229937379784404
+      MiniSwordMan_10: -6631179822763198230
+      MiniSwordMan_11: -8893302374788489090
+      MiniSwordMan_12: -7271301463866913317
+      MiniSwordMan_13: 8245725487622345609
+      MiniSwordMan_14: 4001326871936014896
+      MiniSwordMan_15: 5947032012226982047
+      MiniSwordMan_16: -2105890662011212580
+      MiniSwordMan_17: 381987376143259962
+      MiniSwordMan_18: 8197731325795905921
+      MiniSwordMan_19: -4123219066973461941
+      MiniSwordMan_2: -250838222661855709
+      MiniSwordMan_20: -7217311071488327769
+      MiniSwordMan_21: -6987559965317779590
+      MiniSwordMan_22: -1263751432711080227
+      MiniSwordMan_23: 8366903370504604036
+      MiniSwordMan_24: 5591919075094625761
+      MiniSwordMan_3: -8454521358705239570
+      MiniSwordMan_4: 889433626851667271
+      MiniSwordMan_5: 4829824714103737065
+      MiniSwordMan_6: -6476934913726316661
+      MiniSwordMan_7: 2841752544089333437
+      MiniSwordMan_8: -8742341911821893509
+      MiniSwordMan_9: -4668702310612612524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

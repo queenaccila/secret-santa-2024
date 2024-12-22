@@ -207,6 +207,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1059,7 +1072,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniHorseMan_0: -3872400618748102687
+      MiniHorseMan_1: -1044617048275741950
+      MiniHorseMan_10: -9004155713997059201
+      MiniHorseMan_11: 1675147584258165183
+      MiniHorseMan_12: -8523684323497972326
+      MiniHorseMan_13: -8615740228386125432
+      MiniHorseMan_14: -2271299444317233908
+      MiniHorseMan_15: 7962046537806746972
+      MiniHorseMan_16: 5721270906812581205
+      MiniHorseMan_17: 3413615821876977051
+      MiniHorseMan_18: 8021790482694647110
+      MiniHorseMan_19: 1596610793742946612
+      MiniHorseMan_2: -7324949768780914277
+      MiniHorseMan_20: 2017060846894124053
+      MiniHorseMan_21: 8890328398344016963
+      MiniHorseMan_22: -5204840047301790966
+      MiniHorseMan_23: 7043123585790419929
+      MiniHorseMan_24: -1931214341227063246
+      MiniHorseMan_25: -1097323406877118720
+      MiniHorseMan_26: 8908158348993778417
+      MiniHorseMan_27: -74550962490515557
+      MiniHorseMan_28: -2853844089442772645
+      MiniHorseMan_29: 4650307940980948803
+      MiniHorseMan_3: 8674221762900662989
+      MiniHorseMan_30: -1616177277947970386
+      MiniHorseMan_31: -4897105858796068013
+      MiniHorseMan_32: 2694981284165415726
+      MiniHorseMan_33: -1403982013153341316
+      MiniHorseMan_34: 7560482039139490784
+      MiniHorseMan_35: -4156019249159609937
+      MiniHorseMan_36: -5980491832588905812
+      MiniHorseMan_37: -8567348735481490507
+      MiniHorseMan_4: 796628112153804928
+      MiniHorseMan_5: -6141458602406484883
+      MiniHorseMan_6: -8169778973857073561
+      MiniHorseMan_7: -7839376634851461781
+      MiniHorseMan_8: 8268163127376681695
+      MiniHorseMan_9: -1629279059122679425
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

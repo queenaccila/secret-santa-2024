@@ -285,6 +285,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1709,7 +1722,71 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniArchMage_0: -8958617834977694253
+      MiniArchMage_1: 598554110101874573
+      MiniArchMage_10: 8316016561956409782
+      MiniArchMage_11: -1315562903629708769
+      MiniArchMage_12: 3804396193633374388
+      MiniArchMage_13: -8869319453876079683
+      MiniArchMage_14: -8637032629746448010
+      MiniArchMage_15: -7173006550190889937
+      MiniArchMage_16: -4239990581665469493
+      MiniArchMage_17: 6213965583749909769
+      MiniArchMage_18: 8942989344509549113
+      MiniArchMage_19: -5222064411821273560
+      MiniArchMage_2: -972406867396202422
+      MiniArchMage_20: 1692720770082943501
+      MiniArchMage_21: 6510426832454031227
+      MiniArchMage_22: -7016075310954774687
+      MiniArchMage_23: 2592172088824122622
+      MiniArchMage_24: -779066290781482871
+      MiniArchMage_25: -368578976474608111
+      MiniArchMage_26: -4942949178813993476
+      MiniArchMage_27: 6407003993349505312
+      MiniArchMage_28: 3349633789834559487
+      MiniArchMage_29: -2289667196252496228
+      MiniArchMage_3: -2754129226409533458
+      MiniArchMage_30: 3919571594745779558
+      MiniArchMage_31: 2909260730423975257
+      MiniArchMage_32: 3360009031246284070
+      MiniArchMage_33: 6794175745419872682
+      MiniArchMage_34: 4206106093854717580
+      MiniArchMage_35: -6156783607737885481
+      MiniArchMage_36: -8614069886427605948
+      MiniArchMage_37: -2423848916994249890
+      MiniArchMage_38: 2273026156746616356
+      MiniArchMage_39: -6023388745269839126
+      MiniArchMage_4: 2087332804130394367
+      MiniArchMage_40: -3286459645008259849
+      MiniArchMage_41: -6043995131230734927
+      MiniArchMage_42: 8265125829607272329
+      MiniArchMage_43: 2383824363540870063
+      MiniArchMage_44: 6290873640103321540
+      MiniArchMage_45: -3394455160156434912
+      MiniArchMage_46: -2359651665185820694
+      MiniArchMage_47: 6856833420606962453
+      MiniArchMage_48: -7759442114297779974
+      MiniArchMage_49: 438560112674217189
+      MiniArchMage_5: -1263712023183224260
+      MiniArchMage_50: -1790621916416704656
+      MiniArchMage_51: 7425113161437460530
+      MiniArchMage_52: 5029733845099267215
+      MiniArchMage_53: 8793353847678581142
+      MiniArchMage_54: 446320604052018964
+      MiniArchMage_55: 784972022610099101
+      MiniArchMage_56: 1667819501015045854
+      MiniArchMage_57: 604961695309205829
+      MiniArchMage_58: -5374264768515675505
+      MiniArchMage_59: 819499733579809797
+      MiniArchMage_6: 3523425503515228926
+      MiniArchMage_60: 5892860483579715711
+      MiniArchMage_61: 5260648008577748339
+      MiniArchMage_62: -5210190285694480993
+      MiniArchMage_63: -4554606429788033316
+      MiniArchMage_7: 2267005202674180422
+      MiniArchMage_8: 8713978618393400536
+      MiniArchMage_9: -1046735634466143355
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

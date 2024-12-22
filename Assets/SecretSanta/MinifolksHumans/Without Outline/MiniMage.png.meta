@@ -246,6 +246,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1384,7 +1397,58 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniMage_0: 1124035923732166699
+      MiniMage_1: 1110048961288214596
+      MiniMage_10: -5079495592099876893
+      MiniMage_11: -4263484996178264213
+      MiniMage_12: 834301400875954131
+      MiniMage_13: 2256786508231178125
+      MiniMage_14: 634851588292546159
+      MiniMage_15: 2015693821580829376
+      MiniMage_16: -3196639134273440237
+      MiniMage_17: -6475887318779206122
+      MiniMage_18: 5310040375480149784
+      MiniMage_19: 5458754456742528314
+      MiniMage_2: 5474535611943414535
+      MiniMage_20: -799021357271242753
+      MiniMage_21: -4361660870589967605
+      MiniMage_22: 2179313722709407162
+      MiniMage_23: 1246808628720999233
+      MiniMage_24: 6633259060568800417
+      MiniMage_25: -6517761568652348498
+      MiniMage_26: 4835414243166677162
+      MiniMage_27: -3394811237966974817
+      MiniMage_28: 216133655850231139
+      MiniMage_29: -8775535298342984655
+      MiniMage_3: -1127687755714536241
+      MiniMage_30: 8610007161411292281
+      MiniMage_31: -2194889995993947226
+      MiniMage_32: -1254427082114856735
+      MiniMage_33: 8017578593509314481
+      MiniMage_34: -484398128452431396
+      MiniMage_35: -7184922761446063031
+      MiniMage_36: -567990388068290784
+      MiniMage_37: 1866020428150100264
+      MiniMage_38: -7051511592217022942
+      MiniMage_39: 5829013701507462799
+      MiniMage_4: -1414204251925241412
+      MiniMage_40: 9072437469718104096
+      MiniMage_41: 5391281789533227536
+      MiniMage_42: -5601666815640472268
+      MiniMage_43: -2968571335751851293
+      MiniMage_44: -8381163069261201036
+      MiniMage_45: 2670898464498265472
+      MiniMage_46: -4491684545702881476
+      MiniMage_47: -1593991684513715619
+      MiniMage_48: 4190279423566061870
+      MiniMage_49: -1288540301013190084
+      MiniMage_5: 2666337752829267299
+      MiniMage_50: -3386182851853004054
+      MiniMage_6: 5831182586490411910
+      MiniMage_7: 5925387463329219638
+      MiniMage_8: -6728039636442232460
+      MiniMage_9: 7249214483195956181
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
