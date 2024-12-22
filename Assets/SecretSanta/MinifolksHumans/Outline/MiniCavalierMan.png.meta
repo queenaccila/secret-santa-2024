@@ -148,7 +148,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -162,7 +162,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -214,10 +214,10 @@ TextureImporter:
       name: MiniCavalierMan_0
       rect:
         serializedVersion: 2
-        x: 6
+        x: 0
         y: 192
-        width: 19
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,10 +236,10 @@ TextureImporter:
       name: MiniCavalierMan_1
       rect:
         serializedVersion: 2
-        x: 38
+        x: 32
         y: 192
-        width: 19
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,10 +258,10 @@ TextureImporter:
       name: MiniCavalierMan_2
       rect:
         serializedVersion: 2
-        x: 70
+        x: 64
         y: 192
-        width: 19
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -280,10 +280,10 @@ TextureImporter:
       name: MiniCavalierMan_3
       rect:
         serializedVersion: 2
-        x: 102
+        x: 96
         y: 192
-        width: 19
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +302,10 @@ TextureImporter:
       name: MiniCavalierMan_4
       rect:
         serializedVersion: 2
-        x: 134
+        x: 128
         y: 192
-        width: 19
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,10 +324,10 @@ TextureImporter:
       name: MiniCavalierMan_5
       rect:
         serializedVersion: 2
-        x: 165
+        x: 160
         y: 192
-        width: 20
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,10 +346,10 @@ TextureImporter:
       name: MiniCavalierMan_6
       rect:
         serializedVersion: 2
-        x: 197
+        x: 192
         y: 192
-        width: 20
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,10 +368,10 @@ TextureImporter:
       name: MiniCavalierMan_7
       rect:
         serializedVersion: 2
-        x: 230
+        x: 224
         y: 192
-        width: 19
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,10 +390,10 @@ TextureImporter:
       name: MiniCavalierMan_8
       rect:
         serializedVersion: 2
-        x: 4
+        x: 0
         y: 160
-        width: 25
-        height: 28
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,10 +412,10 @@ TextureImporter:
       name: MiniCavalierMan_9
       rect:
         serializedVersion: 2
-        x: 37
+        x: 32
         y: 160
-        width: 24
-        height: 28
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,10 +434,10 @@ TextureImporter:
       name: MiniCavalierMan_10
       rect:
         serializedVersion: 2
-        x: 69
+        x: 64
         y: 160
-        width: 24
-        height: 29
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,10 +456,10 @@ TextureImporter:
       name: MiniCavalierMan_11
       rect:
         serializedVersion: 2
-        x: 100
+        x: 96
         y: 160
-        width: 24
-        height: 30
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,10 +478,10 @@ TextureImporter:
       name: MiniCavalierMan_12
       rect:
         serializedVersion: 2
-        x: 132
+        x: 128
         y: 160
-        width: 24
-        height: 26
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,10 +500,10 @@ TextureImporter:
       name: MiniCavalierMan_13
       rect:
         serializedVersion: 2
-        x: 164
+        x: 160
         y: 160
-        width: 24
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -522,10 +522,10 @@ TextureImporter:
       name: MiniCavalierMan_14
       rect:
         serializedVersion: 2
-        x: 4
+        x: 0
         y: 128
-        width: 27
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,10 +544,10 @@ TextureImporter:
       name: MiniCavalierMan_15
       rect:
         serializedVersion: 2
-        x: 37
+        x: 32
         y: 128
-        width: 26
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,10 +566,10 @@ TextureImporter:
       name: MiniCavalierMan_16
       rect:
         serializedVersion: 2
-        x: 69
+        x: 64
         y: 128
-        width: 26
-        height: 24
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -588,10 +588,10 @@ TextureImporter:
       name: MiniCavalierMan_17
       rect:
         serializedVersion: 2
-        x: 100
+        x: 96
         y: 128
-        width: 27
-        height: 23
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -610,10 +610,10 @@ TextureImporter:
       name: MiniCavalierMan_18
       rect:
         serializedVersion: 2
-        x: 132
+        x: 128
         y: 128
-        width: 27
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -632,10 +632,10 @@ TextureImporter:
       name: MiniCavalierMan_19
       rect:
         serializedVersion: 2
-        x: 164
+        x: 160
         y: 128
-        width: 27
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -654,10 +654,10 @@ TextureImporter:
       name: MiniCavalierMan_20
       rect:
         serializedVersion: 2
-        x: 4
+        x: 0
         y: 96
-        width: 21
-        height: 28
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -676,10 +676,10 @@ TextureImporter:
       name: MiniCavalierMan_21
       rect:
         serializedVersion: 2
-        x: 36
+        x: 32
         y: 96
-        width: 22
-        height: 30
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -698,10 +698,10 @@ TextureImporter:
       name: MiniCavalierMan_22
       rect:
         serializedVersion: 2
-        x: 68
+        x: 64
         y: 96
-        width: 22
-        height: 26
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -720,10 +720,10 @@ TextureImporter:
       name: MiniCavalierMan_23
       rect:
         serializedVersion: 2
-        x: 6
+        x: 0
         y: 64
-        width: 20
-        height: 24
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -742,10 +742,10 @@ TextureImporter:
       name: MiniCavalierMan_24
       rect:
         serializedVersion: 2
-        x: 37
+        x: 32
         y: 64
-        width: 20
-        height: 23
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -764,10 +764,10 @@ TextureImporter:
       name: MiniCavalierMan_25
       rect:
         serializedVersion: 2
-        x: 68
+        x: 64
         y: 64
-        width: 21
-        height: 23
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -786,10 +786,10 @@ TextureImporter:
       name: MiniCavalierMan_26
       rect:
         serializedVersion: 2
-        x: 99
+        x: 96
         y: 64
-        width: 29
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -808,10 +808,10 @@ TextureImporter:
       name: MiniCavalierMan_27
       rect:
         serializedVersion: 2
-        x: 133
+        x: 128
         y: 64
-        width: 27
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -830,10 +830,10 @@ TextureImporter:
       name: MiniCavalierMan_28
       rect:
         serializedVersion: 2
-        x: 166
+        x: 160
         y: 64
-        width: 26
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -852,10 +852,10 @@ TextureImporter:
       name: MiniCavalierMan_29
       rect:
         serializedVersion: 2
-        x: 198
+        x: 192
         y: 64
-        width: 21
-        height: 23
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -874,10 +874,10 @@ TextureImporter:
       name: MiniCavalierMan_30
       rect:
         serializedVersion: 2
-        x: 3
+        x: 0
         y: 32
-        width: 24
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -896,10 +896,10 @@ TextureImporter:
       name: MiniCavalierMan_31
       rect:
         serializedVersion: 2
-        x: 36
+        x: 32
         y: 32
-        width: 22
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -918,10 +918,10 @@ TextureImporter:
       name: MiniCavalierMan_32
       rect:
         serializedVersion: 2
-        x: 5
+        x: 0
         y: 0
-        width: 21
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -940,10 +940,10 @@ TextureImporter:
       name: MiniCavalierMan_33
       rect:
         serializedVersion: 2
-        x: 36
+        x: 32
         y: 0
-        width: 23
-        height: 23
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -962,10 +962,10 @@ TextureImporter:
       name: MiniCavalierMan_34
       rect:
         serializedVersion: 2
-        x: 70
+        x: 64
         y: 0
-        width: 25
-        height: 19
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -984,10 +984,10 @@ TextureImporter:
       name: MiniCavalierMan_35
       rect:
         serializedVersion: 2
-        x: 100
+        x: 96
         y: 0
-        width: 29
-        height: 13
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1006,10 +1006,10 @@ TextureImporter:
       name: MiniCavalierMan_36
       rect:
         serializedVersion: 2
-        x: 132
+        x: 128
         y: 0
-        width: 29
-        height: 10
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1028,10 +1028,10 @@ TextureImporter:
       name: MiniCavalierMan_37
       rect:
         serializedVersion: 2
-        x: 164
+        x: 160
         y: 0
-        width: 29
-        height: 9
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1050,7 +1050,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b477c08d25264794cac0f6b0ea1904db
     internalID: 0
     vertices: []
     indices: 
@@ -1059,7 +1059,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniCavalierMan_0: 7422181605936378285
+      MiniCavalierMan_1: 5682068335361387786
+      MiniCavalierMan_10: 4451486238217154501
+      MiniCavalierMan_11: -6964472051174593960
+      MiniCavalierMan_12: -3234588341096487704
+      MiniCavalierMan_13: -5773300400606986921
+      MiniCavalierMan_14: 3220166578482907045
+      MiniCavalierMan_15: 6390105969630708367
+      MiniCavalierMan_16: 2301584288136406717
+      MiniCavalierMan_17: -1120334521801179494
+      MiniCavalierMan_18: 1279372092546043521
+      MiniCavalierMan_19: -4978510267594683435
+      MiniCavalierMan_2: -7538842275627551421
+      MiniCavalierMan_20: 99225822879048531
+      MiniCavalierMan_21: 1339361422575811712
+      MiniCavalierMan_22: 6188484714220339366
+      MiniCavalierMan_23: 6636630363096083660
+      MiniCavalierMan_24: -1129083992321544762
+      MiniCavalierMan_25: -8190583398764845587
+      MiniCavalierMan_26: -2248022496296086019
+      MiniCavalierMan_27: -3763670832247679402
+      MiniCavalierMan_28: -3533924499615065870
+      MiniCavalierMan_29: 1752862994145283433
+      MiniCavalierMan_3: 6145357851714593018
+      MiniCavalierMan_30: -5211790038839179295
+      MiniCavalierMan_31: -3058501750801093852
+      MiniCavalierMan_32: 6521454997985027322
+      MiniCavalierMan_33: -828626028361519888
+      MiniCavalierMan_34: 2686190745195977296
+      MiniCavalierMan_35: 6199777948172516830
+      MiniCavalierMan_36: -8696087188073343185
+      MiniCavalierMan_37: 1523656176646730119
+      MiniCavalierMan_4: -3225634602750588034
+      MiniCavalierMan_5: -4697239223243045715
+      MiniCavalierMan_6: -1376259227974004996
+      MiniCavalierMan_7: 7806802995763240767
+      MiniCavalierMan_8: -3085482294628538961
+      MiniCavalierMan_9: -8380389588262711591
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

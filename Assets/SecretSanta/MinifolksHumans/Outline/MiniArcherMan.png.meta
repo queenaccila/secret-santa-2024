@@ -145,7 +145,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -159,7 +159,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -211,10 +211,10 @@ TextureImporter:
       name: MiniArcherMan_0
       rect:
         serializedVersion: 2
-        x: 9
+        x: 0
         y: 192
-        width: 16
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,10 +233,10 @@ TextureImporter:
       name: MiniArcherMan_1
       rect:
         serializedVersion: 2
-        x: 41
+        x: 32
         y: 192
-        width: 16
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,10 +255,10 @@ TextureImporter:
       name: MiniArcherMan_2
       rect:
         serializedVersion: 2
-        x: 73
+        x: 64
         y: 192
-        width: 16
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,10 +277,10 @@ TextureImporter:
       name: MiniArcherMan_3
       rect:
         serializedVersion: 2
-        x: 105
+        x: 96
         y: 192
-        width: 16
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,10 +299,10 @@ TextureImporter:
       name: MiniArcherMan_4
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 160
-        width: 17
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,10 +321,10 @@ TextureImporter:
       name: MiniArcherMan_5
       rect:
         serializedVersion: 2
-        x: 41
+        x: 32
         y: 160
-        width: 15
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -343,10 +343,10 @@ TextureImporter:
       name: MiniArcherMan_6
       rect:
         serializedVersion: 2
-        x: 73
+        x: 64
         y: 160
-        width: 15
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,10 +365,10 @@ TextureImporter:
       name: MiniArcherMan_7
       rect:
         serializedVersion: 2
-        x: 105
+        x: 96
         y: 160
-        width: 14
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -387,10 +387,10 @@ TextureImporter:
       name: MiniArcherMan_8
       rect:
         serializedVersion: 2
-        x: 137
+        x: 128
         y: 160
-        width: 15
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,10 +409,10 @@ TextureImporter:
       name: MiniArcherMan_9
       rect:
         serializedVersion: 2
-        x: 169
+        x: 160
         y: 160
-        width: 16
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,10 +431,10 @@ TextureImporter:
       name: MiniArcherMan_10
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 128
-        width: 17
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -453,10 +453,10 @@ TextureImporter:
       name: MiniArcherMan_11
       rect:
         serializedVersion: 2
-        x: 40
+        x: 32
         y: 128
-        width: 17
-        height: 19
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -475,10 +475,10 @@ TextureImporter:
       name: MiniArcherMan_12
       rect:
         serializedVersion: 2
-        x: 72
+        x: 64
         y: 128
-        width: 17
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -497,10 +497,10 @@ TextureImporter:
       name: MiniArcherMan_13
       rect:
         serializedVersion: 2
-        x: 9
+        x: 0
         y: 96
-        width: 17
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -519,10 +519,10 @@ TextureImporter:
       name: MiniArcherMan_14
       rect:
         serializedVersion: 2
-        x: 41
+        x: 32
         y: 96
-        width: 16
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -541,10 +541,10 @@ TextureImporter:
       name: MiniArcherMan_15
       rect:
         serializedVersion: 2
-        x: 71
+        x: 64
         y: 96
-        width: 18
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -563,10 +563,10 @@ TextureImporter:
       name: MiniArcherMan_16
       rect:
         serializedVersion: 2
-        x: 105
+        x: 96
         y: 96
-        width: 16
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -585,10 +585,10 @@ TextureImporter:
       name: MiniArcherMan_17
       rect:
         serializedVersion: 2
-        x: 137
+        x: 128
         y: 96
-        width: 20
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -607,10 +607,10 @@ TextureImporter:
       name: MiniArcherMan_18
       rect:
         serializedVersion: 2
-        x: 168
+        x: 160
         y: 96
-        width: 19
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -629,10 +629,10 @@ TextureImporter:
       name: MiniArcherMan_19
       rect:
         serializedVersion: 2
-        x: 199
+        x: 192
         y: 96
-        width: 18
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -651,10 +651,10 @@ TextureImporter:
       name: MiniArcherMan_20
       rect:
         serializedVersion: 2
-        x: 231
+        x: 224
         y: 96
-        width: 17
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -673,10 +673,10 @@ TextureImporter:
       name: MiniArcherMan_21
       rect:
         serializedVersion: 2
-        x: 264
+        x: 256
         y: 96
-        width: 15
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -695,10 +695,10 @@ TextureImporter:
       name: MiniArcherMan_22
       rect:
         serializedVersion: 2
-        x: 295
+        x: 288
         y: 96
-        width: 16
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -717,10 +717,10 @@ TextureImporter:
       name: MiniArcherMan_23
       rect:
         serializedVersion: 2
-        x: 328
+        x: 320
         y: 96
-        width: 16
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -739,10 +739,10 @@ TextureImporter:
       name: MiniArcherMan_24
       rect:
         serializedVersion: 2
-        x: 9
+        x: 0
         y: 64
-        width: 15
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -761,10 +761,10 @@ TextureImporter:
       name: MiniArcherMan_25
       rect:
         serializedVersion: 2
-        x: 41
+        x: 32
         y: 64
-        width: 14
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -783,10 +783,10 @@ TextureImporter:
       name: MiniArcherMan_26
       rect:
         serializedVersion: 2
-        x: 72
+        x: 64
         y: 64
-        width: 14
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -805,10 +805,10 @@ TextureImporter:
       name: MiniArcherMan_27
       rect:
         serializedVersion: 2
-        x: 105
+        x: 96
         y: 64
-        width: 17
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -827,10 +827,10 @@ TextureImporter:
       name: MiniArcherMan_28
       rect:
         serializedVersion: 2
-        x: 137
+        x: 128
         y: 64
-        width: 17
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -849,10 +849,10 @@ TextureImporter:
       name: MiniArcherMan_29
       rect:
         serializedVersion: 2
-        x: 169
+        x: 160
         y: 64
-        width: 17
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -871,10 +871,10 @@ TextureImporter:
       name: MiniArcherMan_30
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 32
-        width: 16
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -893,10 +893,10 @@ TextureImporter:
       name: MiniArcherMan_31
       rect:
         serializedVersion: 2
-        x: 38
+        x: 32
         y: 32
-        width: 18
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -915,10 +915,10 @@ TextureImporter:
       name: MiniArcherMan_32
       rect:
         serializedVersion: 2
-        x: 72
+        x: 64
         y: 32
-        width: 16
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -937,10 +937,10 @@ TextureImporter:
       name: MiniArcherMan_33
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 0
-        width: 17
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -959,10 +959,10 @@ TextureImporter:
       name: MiniArcherMan_34
       rect:
         serializedVersion: 2
-        x: 41
+        x: 32
         y: 0
-        width: 17
-        height: 13
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -981,10 +981,10 @@ TextureImporter:
       name: MiniArcherMan_35
       rect:
         serializedVersion: 2
-        x: 71
+        x: 64
         y: 0
-        width: 19
-        height: 8
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1003,10 +1003,10 @@ TextureImporter:
       name: MiniArcherMan_36
       rect:
         serializedVersion: 2
-        x: 102
+        x: 96
         y: 0
-        width: 20
-        height: 6
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1025,7 +1025,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 133f15436e85b204882de12d19005a35
     internalID: 0
     vertices: []
     indices: 
@@ -1034,7 +1034,44 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniArcherMan_0: 5831869553964989578
+      MiniArcherMan_1: 5606739620511364118
+      MiniArcherMan_10: -844512067071753424
+      MiniArcherMan_11: 6419009495920322331
+      MiniArcherMan_12: 9145636766136416962
+      MiniArcherMan_13: 2696076027774434384
+      MiniArcherMan_14: 223440651881619213
+      MiniArcherMan_15: -2381295767060757472
+      MiniArcherMan_16: -3073965094844838782
+      MiniArcherMan_17: 3458817790079276395
+      MiniArcherMan_18: -4942563675265850728
+      MiniArcherMan_19: -1543766369969068850
+      MiniArcherMan_2: -494954097852682522
+      MiniArcherMan_20: -2447855861081942498
+      MiniArcherMan_21: -3065763485984823988
+      MiniArcherMan_22: 8096539100281814986
+      MiniArcherMan_23: 8379180264302381807
+      MiniArcherMan_24: -7756068684489840734
+      MiniArcherMan_25: -4093280283751502607
+      MiniArcherMan_26: 1844071186225039211
+      MiniArcherMan_27: 5173047283071247758
+      MiniArcherMan_28: -2410960463399441412
+      MiniArcherMan_29: 2966811125374065514
+      MiniArcherMan_3: -228791891624196641
+      MiniArcherMan_30: 6511905013857329348
+      MiniArcherMan_31: 6987474280643687296
+      MiniArcherMan_32: 3654001712687688881
+      MiniArcherMan_33: -3377318961953600520
+      MiniArcherMan_34: -2056480244410610935
+      MiniArcherMan_35: -2077857680697119547
+      MiniArcherMan_36: 4371463767072948003
+      MiniArcherMan_4: -8161318702509729900
+      MiniArcherMan_5: 27044921048595847
+      MiniArcherMan_6: 1175344124112695603
+      MiniArcherMan_7: 7514208010133430200
+      MiniArcherMan_8: 8335395274127541173
+      MiniArcherMan_9: -4120666970625322648
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

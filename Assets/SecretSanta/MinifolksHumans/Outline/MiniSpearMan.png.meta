@@ -118,7 +118,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -132,7 +132,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -184,10 +184,10 @@ TextureImporter:
       name: MiniSpearMan_0
       rect:
         serializedVersion: 2
-        x: 9
+        x: 0
         y: 160
-        width: 14
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,10 +206,10 @@ TextureImporter:
       name: MiniSpearMan_1
       rect:
         serializedVersion: 2
-        x: 41
+        x: 32
         y: 160
-        width: 14
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,10 +228,10 @@ TextureImporter:
       name: MiniSpearMan_2
       rect:
         serializedVersion: 2
-        x: 73
+        x: 64
         y: 160
-        width: 14
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,10 +250,10 @@ TextureImporter:
       name: MiniSpearMan_3
       rect:
         serializedVersion: 2
-        x: 105
+        x: 96
         y: 160
-        width: 14
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,10 +272,10 @@ TextureImporter:
       name: MiniSpearMan_4
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 128
-        width: 16
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: MiniSpearMan_5
       rect:
         serializedVersion: 2
-        x: 41
+        x: 32
         y: 128
-        width: 14
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: MiniSpearMan_6
       rect:
         serializedVersion: 2
-        x: 74
+        x: 64
         y: 128
-        width: 13
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: MiniSpearMan_7
       rect:
         serializedVersion: 2
-        x: 106
+        x: 96
         y: 128
-        width: 12
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,10 +360,10 @@ TextureImporter:
       name: MiniSpearMan_8
       rect:
         serializedVersion: 2
-        x: 137
+        x: 128
         y: 128
-        width: 14
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,10 +382,10 @@ TextureImporter:
       name: MiniSpearMan_9
       rect:
         serializedVersion: 2
-        x: 168
+        x: 160
         y: 128
-        width: 16
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: MiniSpearMan_10
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 96
-        width: 16
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,10 +426,10 @@ TextureImporter:
       name: MiniSpearMan_11
       rect:
         serializedVersion: 2
-        x: 41
+        x: 32
         y: 96
-        width: 15
-        height: 19
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,10 +448,10 @@ TextureImporter:
       name: MiniSpearMan_12
       rect:
         serializedVersion: 2
-        x: 73
+        x: 64
         y: 96
-        width: 14
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: MiniSpearMan_13
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 64
-        width: 15
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -492,10 +492,10 @@ TextureImporter:
       name: MiniSpearMan_14
       rect:
         serializedVersion: 2
-        x: 40
+        x: 32
         y: 64
-        width: 17
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -514,10 +514,10 @@ TextureImporter:
       name: MiniSpearMan_15
       rect:
         serializedVersion: 2
-        x: 71
+        x: 64
         y: 64
-        width: 17
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -536,10 +536,10 @@ TextureImporter:
       name: MiniSpearMan_16
       rect:
         serializedVersion: 2
-        x: 107
+        x: 96
         y: 64
-        width: 21
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -558,10 +558,10 @@ TextureImporter:
       name: MiniSpearMan_17
       rect:
         serializedVersion: 2
-        x: 139
+        x: 128
         y: 64
-        width: 21
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -580,10 +580,10 @@ TextureImporter:
       name: MiniSpearMan_18
       rect:
         serializedVersion: 2
-        x: 171
+        x: 160
         y: 64
-        width: 21
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -602,10 +602,10 @@ TextureImporter:
       name: MiniSpearMan_19
       rect:
         serializedVersion: 2
-        x: 203
+        x: 192
         y: 64
-        width: 17
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -624,10 +624,10 @@ TextureImporter:
       name: MiniSpearMan_20
       rect:
         serializedVersion: 2
-        x: 9
+        x: 0
         y: 32
-        width: 14
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -646,10 +646,10 @@ TextureImporter:
       name: MiniSpearMan_21
       rect:
         serializedVersion: 2
-        x: 38
+        x: 32
         y: 32
-        width: 17
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,10 +668,10 @@ TextureImporter:
       name: MiniSpearMan_22
       rect:
         serializedVersion: 2
-        x: 71
+        x: 64
         y: 32
-        width: 16
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -690,10 +690,10 @@ TextureImporter:
       name: MiniSpearMan_23
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 0
-        width: 15
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -712,10 +712,10 @@ TextureImporter:
       name: MiniSpearMan_24
       rect:
         serializedVersion: 2
-        x: 41
+        x: 32
         y: 0
-        width: 16
-        height: 12
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -734,10 +734,10 @@ TextureImporter:
       name: MiniSpearMan_25
       rect:
         serializedVersion: 2
-        x: 71
+        x: 64
         y: 0
-        width: 19
-        height: 8
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -756,10 +756,10 @@ TextureImporter:
       name: MiniSpearMan_26
       rect:
         serializedVersion: 2
-        x: 102
+        x: 96
         y: 0
-        width: 20
-        height: 6
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -778,10 +778,10 @@ TextureImporter:
       name: MiniSpearMan_27
       rect:
         serializedVersion: 2
-        x: 134
+        x: 128
         y: 0
-        width: 20
-        height: 6
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -800,7 +800,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bb6f6175ebc6c994f9878ffc1bb8a164
     internalID: 0
     vertices: []
     indices: 
@@ -809,7 +809,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniSpearMan_0: 2162766994774161030
+      MiniSpearMan_1: -5562096071103744139
+      MiniSpearMan_10: 4876747651469033931
+      MiniSpearMan_11: 2401450097206899915
+      MiniSpearMan_12: 980161217612829656
+      MiniSpearMan_13: 8554882482823335935
+      MiniSpearMan_14: -746633045687430018
+      MiniSpearMan_15: 7840843372608783117
+      MiniSpearMan_16: -8740010173717043448
+      MiniSpearMan_17: 8126511288811796868
+      MiniSpearMan_18: 4023094116534102115
+      MiniSpearMan_19: 8540764438802995667
+      MiniSpearMan_2: -7482988128699340779
+      MiniSpearMan_20: 2387466484870569373
+      MiniSpearMan_21: 641021518690718148
+      MiniSpearMan_22: -632410494518889265
+      MiniSpearMan_23: 8916712658608939260
+      MiniSpearMan_24: 4882006378774180178
+      MiniSpearMan_25: 6573133240277011525
+      MiniSpearMan_26: 5914712497998430905
+      MiniSpearMan_27: -3375320560435781332
+      MiniSpearMan_3: 3747124102054857487
+      MiniSpearMan_4: 7799384791829634183
+      MiniSpearMan_5: -4636717877653839678
+      MiniSpearMan_6: 383374598439774415
+      MiniSpearMan_7: -255400804039188915
+      MiniSpearMan_8: -8594910477352517244
+      MiniSpearMan_9: -6526007213610444219
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
